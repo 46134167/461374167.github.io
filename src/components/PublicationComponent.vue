@@ -20,7 +20,7 @@
 
           <p style="font-size:18px;margin-top:-10px;">
               Tianle Yang, Kun Mao. (2022). Emotion-related One-on-one Japanese Online Classroom Study.
-              <a href='XXX'>[XXX] </a> 
+              <a href='XXX'>[XXXXXXXX] </a> 
               <a href='XXX'>[under review]</a>
 
           </p>
