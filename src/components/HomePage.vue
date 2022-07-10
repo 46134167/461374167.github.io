@@ -18,7 +18,7 @@
                     <a-menu-item key="2" @click="RoutePage(2)">RESEARCH</a-menu-item>
                     <a-menu-item key="3" @click="RoutePage(3)">PUBLICATIONS</a-menu-item>
                     <a-menu-item key="4" @click="RoutePage(4)">SERVICES</a-menu-item>
-                    <a-menu-item key="5" @click="RoutePage(5)">HOBBY</a-menu-item>
+                    <a-menu-item key="5" @click="RoutePage(5)">CV</a-menu-item>
                     <a-menu-item key="6" @click="RoutePage(6)">CONTACT</a-menu-item>
                 </a-menu>
             </a-layout-header>
@@ -57,7 +57,7 @@
                         this.$router.replace('/Services')
                         break
                     case 5:
-                        this.$router.replace('/HOBBY')
+                        this.$router.replace('/CV')
                         break
                     case 6:
                         this.$router.replace('/CONTACT')

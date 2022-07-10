@@ -24,7 +24,7 @@
                     Documentation and analysis of Hainan dialect
                 </p>
                 <p style="font-size:15px;margin-top:-20px; font-Weight:bold;">
-                    From December 2022 - ?
+                    From December 2022 - ? (Preparing phase)
                 </p>
                 <p style="font-size:18px; margin-top: -10px">
                     The Hainan dialect is considered to be understudied and endangered as a group of Min varieties spoken 
