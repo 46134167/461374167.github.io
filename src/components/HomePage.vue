@@ -2,9 +2,9 @@
     <div id="outer-container" style="width:80%;height:95%;margin:0 auto">
 
         <div class="basic_info" style="width:30%;margin-top:0px;">
-            <p align="left" style="font-size:33px;margin-left:10px;font-weight:bold">Tianle Yang</p>
+            <p align="left" style="font-size:31px;margin-left:10px;font-weight:bold">Tianle Yang</p>
             <a-divider style="margin-top:-30px;"/>
-            <p align="left" style="color:blue;margin-top:-20px;margin-left:10px;font-size:20px;font-weight:bold;"> Independent researcher</p>
+            <p align="left" style="color:blue;margin-top:-20px;margin-left:10px;font-size:17px;font-weight:bold;"> Independent researcher</p>
         </div>
         <a-layout>
             <a-layout-header>

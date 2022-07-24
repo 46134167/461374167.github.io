@@ -3,7 +3,7 @@
        
       <a-divider/>    
          <div id="CV" align="left">
-                <p style="font-size:20px; margin-top: -10px; font-Weight:bold;">
+                <p style="font-size:17px; margin-top: -10px; font-Weight:bold;">
                    Appear soon ~
                 </p>
          </div>

@@ -3,16 +3,16 @@
 
 
         <div id="ResearchProjects" align="left" >
-            <p style="font-size:27px;margin-top:10px;">Research Projects</p>
+            <p style="font-size:23px;margin-top:10px;">Research Projects</p>
             <div id="Project1">
                 <a-space direction="vertical">
-                    <a-typography-link style="font-size:20px;margin-top:20px;" href="https://philjohnrose.net/Wu_tones/Wu_citation_tones/Wu_sites_ZJ_JS.html" target="_blank">
+                    <a-typography-link style="font-size:20px;margin-top:-10px;" href="https://philjohnrose.net/Wu_tones/Wu_citation_tones/Wu_sites_ZJ_JS.html" target="_blank">
                         <right-outlined></right-outlined>
                         Wu tone map
                     </a-typography-link>
                     <a-typography-text strong style="font-size: 15px">From October 2021 - March 2022</a-typography-text>
                 </a-space>
-                <p style="font-size:18px; margin-top: 10px">
+                <p style="font-size:17px; margin-top: 10px">
                     These are some good stuff Phil has been working on for decades. I offered him fieldwork recordings in
                     six Chinese Wu sites (some at the putative boundary of left and right dominant tone sandhi speaking places).
                     They are Jinshan and Songjiang in Shanghai, and Huzhou, Zhuji, Shengzhou and Shangyu in Zhejiang.
@@ -26,7 +26,7 @@
                 <p style="font-size:15px;margin-top:-20px; font-Weight:bold;">
                     From December 2022 - ? (Preparing phase)
                 </p>
-                <p style="font-size:18px; margin-top: -10px">
+                <p style="font-size:17px; margin-top: -10px">
                     The Hainan dialect is considered to be understudied and endangered as a group of Min varieties spoken 
                     on a southern Chinese island. This fieldwork will start from the <a href='http://www.hnszw.org.cn/data/news/2015/04/77216/'>Wenchang variety</a>,
                     which is widely known as Hainan's official dialect. Then, the recording will gradually extend to local ethnic minority communities' dialects, such 
@@ -39,17 +39,32 @@
 
             <div id="Project3">
                 <p style="font-size:20px; color:green; margin-top:20px;">
-                    Automatic tone identification and categorization based on given vocal onsets and offsets
+                    Automatic Wu tone identification and categorization based on given vocal onsets and offsets
                 </p>
                 <p style="font-size:15px;margin-top:-20px; font-Weight:bold;">
                     From July 2022 - present
                 </p>
-                <p style="font-size:18px; margin-top: -10px">
-                    Planning phase.
-
+                <p style="font-size:17px; margin-top: -10px">
+                    It is well-known that acoustic features such as register (tonal pitch height dimension), tone contour, phonation type and duration could be cues 
+                    to tone identification. This project plans to extract acoustic features from our fieldwork recording database 
+                    and train the computer to identify and categorize Wu tones based on machine learning algorithms.
                 
                 </p>
             </div>
+
+            <div id="Project4">
+                <p style="font-size:20px; color:green; margin-top:20px;">
+                    Between speakers differences in Jinshan vowels
+                </p>
+                <p style="font-size:15px;margin-top:-20px; font-Weight:bold;">
+                    From August 2022 - present
+                </p>
+                <p style="font-size:17px; margin-top: -10px">
+                    male speaker - nasal sound loss/ sound merge
+                
+                </p>
+            </div>
+
         </div>
 
         <a-divider/>
