@@ -72,7 +72,6 @@
          <div id="Project4" align="left">
                 <p style="font-size:20px; margin-top: -10px; font-Weight:bold;">
                     For details of my finished projects, please click on the publications section.
-
                 </p>
             </div>
     </div>

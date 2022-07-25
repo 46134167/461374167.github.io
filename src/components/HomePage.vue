@@ -1,10 +1,17 @@
 <template>
-    <div id="outer-container" style="width:80%;height:95%;margin:0 auto">
+    <div id="outer-container" style="width:80%;height:95%;margin:0 auto;text-align: left;">
 
-        <div class="basic_info" style="width:30%;margin-top:0px;">
-            <p align="left" style="font-size:31px;margin-left:10px;font-weight:bold">Tianle Yang</p>
-            <a-divider style="margin-top:-30px;"/>
-            <p align="left" style="color:blue;margin-top:-20px;margin-left:10px;font-size:17px;font-weight:bold;"> Independent researcher</p>
+        <div class="basic_info" style="margin-top:0px;position: relative;display: flex;align-items: center;">
+            <div>
+                <p align="left" style="font-size:31px;margin-left:10px;font-weight:bold">Tianle Yang</p>
+                <a-divider style="margin-top:-30px;"/>
+                <p align="left" style="color:blue;margin-top:-20px;margin-left:10px;font-size:17px;font-weight:bold;"> Independent researcher</p>
+            </div>
+
+            <div style="margin-left: 20px;">
+                <img style="width: 100px;height: 100px;" src="../assets/toux.jpg" alt="">
+            </div>
+            
         </div>
         <a-layout>
             <a-layout-header>

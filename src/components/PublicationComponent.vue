@@ -11,7 +11,7 @@
 
           <p style="font-size:17px;margin-top:-10px;">
               Phil Rose & Tianle Yang (2022). Modeling Interaction between Tone and Phonation Type in the Northern Wu Dialect of Jinshan.
-              <a href='XXX'>[XXX] </a> 
+              <a href="/test1.pdf">[XXX] </a>
               <a href='XXX'>[under review]</a>
 
 
@@ -20,8 +20,8 @@
 
           <p style="font-size:17px;margin-top:-10px;">
               Tianle Yang, Kun Mao. (2022). Emotion-related One-on-one Japanese Online Classroom Study.
-              <a href='XXX'>[XXX] </a> 
-              <a href='XXX'>[under review]</a>
+              <a href='/JP_acquisition_TLY.pdf'>[under review - comments welcome] </a> 
+              <a href='/JP_acquisition_TLY.pdf'>[Click here to preview]</a>
 
           </p>
 

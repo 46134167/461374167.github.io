@@ -22,13 +22,14 @@
           <p style="font-size:17px;margin-top:-10px;">
               I'm currently self-funding for some interesting projects. You can click on above sections to know more about them.
           </p>
-          
+
       <a-divider/>    
        <div id="ResearchInterest" align="left" >
             <p style="font-size:22px;margin-top:10px;">Research Interests</p>
             <ul style="font-size:17px;margin-top:-15px;">
                 <li>Acoustic phonetics;</li>
                 <li>Chinese & Japanese phonology;</li>
+                <li>Language variation and change;</li>
                 <li>First & second language acquisition;</li>
                 <li>Machine learning and computer vision;</li>
                 <li>Language testing and speech sound perception;</li>
