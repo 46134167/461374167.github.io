@@ -4,7 +4,6 @@
           <p style="font-size:22px;margin-top:10px;">Review</p>
             <ul style="font-size:17px;margin-top:-15px;">
                 <li>International Journal of Language Education</li>
-                <li>Appear soon ~</li>
             </ul>
       </div>
        
@@ -15,7 +14,7 @@
                 <li>Acoustical Society of America (2022 - present)</li>
                 <li>Linguistics Society of America (2022 - present)</li>
                 <li>International Speech Communication Association (2022 - present)</li>
-                <li>Appear soon ~</li>
+                <li>Australasian Speech Science and Technology Association (2022 - present)</li>
             </ul>
             
         </div>
