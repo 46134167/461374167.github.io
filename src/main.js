@@ -9,6 +9,8 @@ import PublicationComponent from './components/PublicationComponent';
 import ServiceComponent from './components/ServiceComponent';
 import CVComponent from './components/CVComponent';
 import ContactComponent from './components/ContactComponent'
+import Component005 from './components/Component005'
+
 import HomePage from './components/HomePage'
 
 
@@ -44,6 +46,11 @@ const routes = [
               path:'Contact',
               component:ContactComponent,
           },
+          {
+            path:'005',
+            component:Component005,
+          },
+
       ]},
 ]
 
@@ -59,5 +66,6 @@ app.use(PublicationComponent);
 app.use(ServiceComponent);
 app.use(CVComponent);
 app.use(ContactComponent);
+app.use(Component005);
 app.use(router);
 app.use(Antd).mount('#app');

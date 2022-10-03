@@ -28,8 +28,8 @@
 
           <p style="font-size:25px;margin-top:10px;">Manuscripts</p>
           <p style="font-size:17px;margin-top:-10px;">
-              Tianle Yang. (2022). Perception of Shanghai tones by Cantonese, Mandarin and English speakers.
-              <a href='XXX'>[Finished - under revision] </a> 
+              Tianle Yang. (2022). Perception of Shanghai tones by Shanghai, Cantonese, Mandarin and English speakers.
+              <a href='XXX'>[Finished] </a> 
               <a href='XXX'>[Available upon request]</a>
 
           </p>
