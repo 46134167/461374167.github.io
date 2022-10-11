@@ -21,7 +21,7 @@
 
                   One of the motivations of this project is that there has been no documented acoustic description of most Hainan dialects, 
                   such as Hainan Min and Hlai. In addition, these varieties are fascinating in various ways. For example, the Hainan Min 
-                  varieties are known for their complex tonological system, for which no acoustics or articulatory study has been conducted. 
+                  varieties are known for their complex tonological system, for which no articulatory or acoustics study has been conducted. 
                   As for Lingao and Hainan Cham, they are unique varieties in historical linguistics research (Thurgood 2005; Ting 1982). 
                   Such fieldwork recordings will be interesting to researchers from different fields.
 
