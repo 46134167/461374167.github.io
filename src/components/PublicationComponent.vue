@@ -3,7 +3,7 @@
       <div id="Welcome" align="left" >
           <p style="font-size:25px;margin-top:10px;">2022</p>
           <p style="font-size:17px;margin-top:-10px;">
-              Phil Rose & Tianle Yang (2022). Modeling Interaction between Tone and Phonation Type in the Northern Wu Dialect of Jinshan.
+              Phil Rose & Tianle Yang. (2022). Modeling Interaction between Tone and Phonation Type in the Northern Wu Dialect of Jinshan.
               <a href='XXX'>[peer-reviewed and accepted by the 18th Australasian International Conference on Speech Science and Technology] </a>
               <a href='/Jinshan_SST.pdf'>[click here to preview]</a>
 
@@ -11,8 +11,8 @@
 
 
           <p style="font-size:17px;margin-top:-10px;">
-              Tianle Yang, Kun Mao. (2022). Emotion-related One-on-one Japanese Online Classroom Study.
-              <a href='XXX'>[at revision stage - comments welcome] </a> 
+              Kun Mao, Tianle Yang. (2022). Emotion-related One-on-one Japanese Online Classroom Study.
+              <a href='XXX'>[peer-reviewed and accepted by the 2022 International Conference on Education, Psychology, Humanities and Historical Research] </a> 
               <a href='/JP_acquisition_TLY.pdf'>[click here to preview]</a>
 
           </p>
