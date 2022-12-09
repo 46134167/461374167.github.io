@@ -25,7 +25,7 @@
                     <router-link to='/005'>[Item#:005] Documentation and analysis of Hainan dialects</router-link>
                 </p>
                 <p style="font-size:15px;margin-top:-20px; font-Weight:bold;">
-                    From December 2022 - ? (Preparing phase)
+                    From December 2022 - present
                 </p>
                 <p style="font-size:17px; margin-top: -10px">
                     The Hainan dialects are considered to be understudied and endangered as several groups of varieties spoken 

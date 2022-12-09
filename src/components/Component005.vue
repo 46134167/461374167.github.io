@@ -26,9 +26,33 @@
                   Such fieldwork recordings will be interesting to researchers from different fields.
 
                 </p>
-                
          </div>
 
+
+         <div id="Project2">
+                <p style="font-size:18px; color:black; margin-top:20px; font-Weight:bold;">
+                    Please click on below sections to see further information
+                </p>
+                <p style="font-size:15px;margin-top:-20px; font-Weight:bold;">
+                    <router-link to='/005_HainanMin'>[Variety#:001] Hainan Min</router-link>
+                </p>
+
+                <p style="font-size:15px;margin-top:-20px; font-Weight:bold;">
+                    [Variety#:002] Lingao
+                </p>
+
+                <p style="font-size:15px;margin-top:-20px; font-Weight:bold;">
+                    [Variety#:003] Hlai
+                </p>
+
+                <p style="font-size:15px;margin-top:-20px; font-Weight:bold;">
+                    [Variety#:004] Tsat
+                </p>
+
+                <p style="font-size:18px;margin-top:30px; font-Weight:bold;">
+                  <router-link to='/Research'>Back to previous page</router-link>
+                </p>
+            </div>
   </div>
 </template>
 
