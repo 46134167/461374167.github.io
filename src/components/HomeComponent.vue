@@ -13,14 +13,14 @@
           <p style="font-size:22px;margin-top:10px;">About me</p>
           <p style="font-size:17px;margin-top:-10px;">
               After graduating from the Australian National University in December 2021 with a bachelor's degree 
-              in information technology, I decided to keep studying linguistics and computer science as an independent researcher.
-              Though being non-affiliated with any school, I received countless help from scholars such as 
+              in information technology, I decided to study linguistics as a Ph.D. student.
+              Since the start of my research journey, I received countless help from scholars such as
               <a href='https://philjohnrose.net/'>Prof.Phil Rose</a>, the
-              best mentor in my academic life, and <a href='https://scholar.google.com/citations?user=CLVnGZ4AAAAJ&hl=en'>Prof.Meihua Liu</a>, who 
-              taught me language acquisition during her spare time.
+              best mentor in my academic life. I'm currently a member of the UB phonetics lab and
+              I'm doing research with <a href='https://mfaytak.github.io/'>Prof.Matthew Faytak</a>.
           </p>
           <p style="font-size:17px;margin-top:-10px;">
-              I'm currently self-funding for some interesting projects. You can click on above sections to know more about them.
+              I'm also self-funding for some interesting projects. You can click on above sections to know more about them.
           </p>
 
       <a-divider/>    
@@ -31,7 +31,6 @@
                 <li>Chinese & Japanese phonology;</li>
                 <li>Language variation and change;</li>
                 <li>First & second language acquisition;</li>
-                <li>Machine learning and computer vision;</li>
                 <li>Language testing and speech sound perception;</li>
                 <li>Documentation and analysis of endangered languages;</li>
             </ul>

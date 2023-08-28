@@ -9,15 +9,6 @@
 
           </p>
 
-
-          <p style="font-size:17px;margin-top:-10px;">
-              Kun Mao, Tianle Yang. (2022). Emotion-related One-on-one Japanese Online Classroom Study.
-              <a href='XXX'>[peer-reviewed and accepted by the 2022 International Conference on Education, Psychology, Humanities and Historical Research] </a> 
-              <a href='/JP_acquisition_TLY.pdf'>[click here to preview]</a>
-
-          </p>
-
-
           <p style="font-size:17px;margin-top:-10px;">
               Tianle Yang. (2022). Neural networks with different initialization methods for depression detection.
               <a href='https://doi.org/10.48550/arXiv.2205.04792'>[https://doi.org/10.48550/arXiv.2205.04792] </a> 

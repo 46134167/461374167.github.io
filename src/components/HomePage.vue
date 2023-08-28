@@ -5,7 +5,7 @@
             <div>
                 <p align="left" style="font-size:31px;margin-left:10px;font-weight:bold">Tianle Yang</p>
                 <a-divider style="margin-top:-30px;"/>
-                <p align="left" style="color:blue;margin-top:-20px;margin-left:10px;font-size:17px;font-weight:bold;"> Independent researcher</p>
+                <p align="left" style="color:blue;margin-top:-20px;margin-left:10px;font-size:17px;font-weight:bold;"> University at Buffalo</p>
             </div>
 
             <div style="margin-left: 20px;">
