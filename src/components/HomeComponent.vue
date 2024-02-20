@@ -12,7 +12,7 @@
       <div id="About" align="left" >
           <p style="font-size:22px;margin-top:10px;">About me</p>
           <p style="font-size:17px;margin-top:-10px;">
-              After graduating from the Australian National University in December 2021 with a bachelor's degree 
+              After graduating from the Australian National University with a bachelor's degree 
               in information technology, I decided to study linguistics as a Ph.D. student.
               Since the start of my research journey, I received countless help from scholars such as
               <a href='https://philjohnrose.net/'>Prof.Phil Rose</a>, the
@@ -28,10 +28,9 @@
             <p style="font-size:22px;margin-top:10px;">Research Interests</p>
             <ul style="font-size:17px;margin-top:-15px;">
                 <li>Acoustic phonetics;</li>
+                <li>Computational linguistics;</li>
+                <li>Speech production & perception;</li>
                 <li>Chinese & Japanese phonology;</li>
-                <li>Language variation and change;</li>
-                <li>First & second language acquisition;</li>
-                <li>Language testing and speech sound perception;</li>
                 <li>Documentation and analysis of endangered languages;</li>
             </ul>
             

@@ -5,7 +5,7 @@ import App from './App';
 import 'ant-design-vue/dist/antd.css';
 import HomeComponent from './components/HomeComponent';
 import ResearchComponent from './components/ResearchComponent';
-import PublicationComponent from './components/PublicationComponent';
+import PaperComponent from './components/PaperComponent';
 import ServiceComponent from './components/ServiceComponent';
 import CVComponent from './components/CVComponent';
 import ContactComponent from './components/ContactComponent'
@@ -32,8 +32,8 @@ const routes = [
               component:ResearchComponent,
           },
           {
-              path:'Publications',
-              component:PublicationComponent,
+              path:'Paper',
+              component:PaperComponent,
           },
           {
               path:'Services',
@@ -67,7 +67,7 @@ const router = createRouter({
 const app = createApp(App);
 app.use(HomeComponent);
 app.use(ResearchComponent);
-app.use(PublicationComponent);
+app.use(PaperComponent);
 app.use(ServiceComponent);
 app.use(CVComponent);
 app.use(ContactComponent);

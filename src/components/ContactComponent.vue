@@ -5,6 +5,7 @@
             <ul style="font-size:17px;margin-top:-15px;">
                 <li>Email address: u6512077 (at) alumni.anu.edu.au</li>
                 <li>Orcid: 0000-0003-0583-0831</li>
+                <li>LinkedIn: <a href='https://www.linkedin.com/in/tianle-yang-4600a02b3/'>Tianle Yang</a></li>
                 <li>Google scholar address: Appear soon ~</li>
             </ul>
       </div>
