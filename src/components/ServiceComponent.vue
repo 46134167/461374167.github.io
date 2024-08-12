@@ -11,10 +11,10 @@
        <div id="Affiliations" align="left" >
             <p style="font-size:22px;margin-top:10px;">Professional affiliations</p>
             <ul style="font-size:17px;margin-top:-15px;">
-                <li>Acoustical Society of America (2022 - present)</li>
                 <li>Linguistics Society of America (2022 - present)</li>
-                <li>International Speech Communication Association (2022 - present)</li>
-                <li>Australasian Speech Science and Technology Association (2022 - present)</li>
+                <li>Acoustical Society of America (2022 - 2023)</li>
+                <li>International Speech Communication Association (2022 - 2023)</li>
+                <li>Australasian Speech Science and Technology Association (2022 - 2023)</li>
             </ul>
             
         </div>
