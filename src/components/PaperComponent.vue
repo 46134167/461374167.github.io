@@ -12,7 +12,7 @@
             <p style="font-size:17px;margin-top:-10px;">
               Phil Rose & <strong>Tianle Yang</strong>. (2024). "Diagnosing dominance: Problematic sandhi types in the Chinese Wu dialect of Jinshan."
               Proceedings of the Linguistic Society of America.
-              <a href='/dominance_proceeding_LSA.pdf'>[inproceedings]</a>
+              <a href='https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5667'>[inproceedings]</a>
           </p>
 
           <p style="font-size:17px;margin-top:-10px;">
@@ -24,7 +24,7 @@
           <p style="font-size:17px;margin-top:-10px;">
              <strong>Tianle Yang</strong> & Phil Rose. (2024). "Left dominant or right dominant? Problematic sandhi types in the Chinese Wu dialect of Jinshan."
               2024 LSA Annual Meeting.
-              <a href='/dominance_poster_LSA.pdf'>[poster]</a>
+              <a href='/Jinshan_dominance_abstract.pdf'>[abstract]</a> and <a href='/dominance_poster_LSA.pdf'>[poster]</a>
           </p>
 
           <p style="font-size:25px;margin-top:10px;">2022</p>
